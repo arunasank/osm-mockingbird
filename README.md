@@ -1,2 +1,2 @@
 # osm-mockingbird
-Script to try and automate the Indic Translation for OSM
+Script to try and automate the Indic Transliteration for OSM
